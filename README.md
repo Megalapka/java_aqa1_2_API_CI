@@ -1,3 +1,4 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/5nflgi2ansp3pmrv?svg=true)](https://ci.appveyor.com/project/Megalapka/java-aqa1-2-api-ci)
 # Домашнее задание к занятию «1.2. Тестирование API, CI»
 
 В качестве результата пришлите ссылку на ваш GitHub-проект в личном кабинете студента на сайте [netology.ru](https://netology.ru).
